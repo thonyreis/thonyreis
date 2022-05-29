@@ -24,8 +24,8 @@
   <a href="https://www.youtube.com/user/Anthonyoable" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.tiktok.com/@thony.reis" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a> 
 
+  ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=antoniosgreis&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)
   ![Snake animation](https://github.com/thonyreis/thonyreis/blob/output/github-contribution-grid-snake.svg)
-  ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=antoniosgreis&cover_image=true&theme=compact)
-
+  
 </div>
  
