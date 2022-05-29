@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/thonyreis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thonyreis&show_icons=true&theme=synthwave&bg_color=0,1E1860,AC379F&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thonyreis&layout=compact&langs_count=7&theme=synthwave&bg_color=0,FD0267,FCB837"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thonyreis&show_icons=true&theme=synthwave&bg_color=0,1E1860,AC379F&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thonyreis&layout=compact&langs_count=7&theme=synthwave&bg_color=0,FD0267,FCB837"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thony-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
